@@ -51,6 +51,7 @@ a {
     float:left;
     width: 33.33%;
     padding-right: 30px;
+    padding-bottom: 30px;
 }
 .portfolio img{
     display: block;
